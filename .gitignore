@@ -1,0 +1,7 @@
+build
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.tif
+*.gif

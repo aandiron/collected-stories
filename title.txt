@@ -1,0 +1,16 @@
+---
+title: Binding Off
+author: A. Andiron
+subtitle: When a passion for knitting becomes passionate knitting.
+rights: Edition 1. © 2018 A. Andiron, CC BY-NC. Email me to be added to the mailing list! a.andiron@protonmail.com. Fear not the spam. This list isn't some vast database of contacts, it's more like a friends-and-family thing. Besides, my productivity is so low, you'll probably wish to see MORE emails from me, not fewer. Consider buying another story! Just search for A. Andiron on the Kindle Store. If everyone reading this right now paid $3, I would have like $9. But it would only take 10k people paying $3 for me to make a living doing this. (Yes I could live on that.) There probably ARE 10,000 people out of the 7 billion in the world who would be willing to pay that. It could be you! And If you support my creative project, I'll support yours! send me your link.
+description: In these pages you will find a psychedelic tale of a shy young woman who finds her innocent knitting project inexplicably occupied with a strange force. The more she knits, the more bizarre things become until her life is taken over by her obsession with her craft - and her craft takes over her body with an obsession all its own.  Here is an exploration of how far a passion for a hobby can be taken, sometimes revealing wholly new heights of pleasure, and sometimes revealing dark fantasies that previously existed only in the subconscious. Break away from conventional tales of bondage and erotica, and maybe discover something new about yourself in this story that pushes against the edges of what love and craft are.
+cover-image: ./cover/yarn-standing-book-cover.png
+documentclass:
+    - article
+header-includes:
+    - \usepackage{hyperref}
+    - \renewcommand*{\titlepagestyle}{empty}
+#    - \usepackage[margin=0.8in]{geometry}
+# above line give Word-like wide text
+...
+

@@ -6,6 +6,7 @@ TITLE = title.txt
 # METADATA = metadata.xml
 # I don't think this metadata file is necessary anymore. It's in the YAML in title.txt
 CHAPTERS = chapters/Tremble_the_Flowering_Wood.md
+# Arrival should be last. Include story for Caroline (with trigger warning) and story for heather.
 # Change ``CHAPTERS`` to a space separated list of Pandoc Markdown chapters, in the order in which you want them to appear.
 TOC = --toc --toc-depth=2
 # uncomment above line if you want a TOC

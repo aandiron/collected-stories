@@ -1,17 +1,57 @@
 introduction.md
-Last modified: Sun Oct 25, 2020  10:23PM
+Last modified: Mon Oct 26, 2020  04:20PM
 
 
-* These stories are experiments. Maybe all erotic stories are experiments, but these are intended to challenge the conventions of erotica. Conventions like:
-	* bland language
-	* fantasy that is derivative of vampire stories, etc
-	* notions that one must remain in a safe space
-	* centering on stories that the writer fantasizes about, instead of creating something interesting and new
-	* These stories may not be _successful_ experiments, but it's important to know that I'm trying!
-* These stories can sometimes be offensive --- Arrival walks back and forth across a gray line of consent. They are not for everyone.
-	* Arrival wanders back and forth across a gray line of consent.  
-* Some are very personal, about real people and real things that happened.
-* Others are pure flights of fantasy.
-* They all share a style of vivid description and careful literary construction.
-* the odd experience that the stories I think are the best (marion date) often don't get as much attention as ones that I think are more typical and kinda weak (take off go around, chinese finger trap)
 
+I initially began writing erotica for the same reason that I believe
+most people do: as a way to build out, explore, and share some of my own
+fantasies. A couple of the stories included in this collection were my
+early attempts to do this. I soon grew tired of my own fantasies though
+because I _know_ what I like, and filling in a lot of details in fantasy
+did little to change anything in my reality. So I started writing with
+the goal of building out _other people's_ fantasies instead. From
+conversations with friends and lovers, and friends who I wished were
+lovers, I found inspiration to write a few stories that were intended
+to appeal the to fantasies of very specific people. Among these stories
+are: _La Capella_, _Listen to the Music_, _Chinese Finger Trap_, and
+_Take Off, Go Around_.
+
+Both writing for ones own fantasies and for those of others leaves the
+author trying to create something that people think they _want_. And
+the truth is what most people think they want is pretty conventional:
+movie-character dialog, moving quickly to bland and realistic
+descriptions of fucking, and fantasies that must include vampires.
+Erotica ends up spinning endlessly in the same muddy rut, a hundred
+million writers and readers all churning through billions of words, all
+essentially describing the same thing. I have been in this churn myself!
+I've watched my more conventional stories like _Take Off, Go Around_
+soar in reads compared to something like _As If It isn't Even Difficult
+to Do_, which I think is much more strongly written. There's nothing
+wrong with erotica that does what you want. But don't you also wish that
+sometimes erotica showed you something new?
+
+I believe the truly exciting erotica is when the reader discovers
+something they didn't even know they wanted. I found myself thinking
+about how to push out the boundaries of what erotica could be. As in
+any art, the only way to do this is to experiment. And as with any
+experiment, it doesn't always work! I can't promise that every story
+included here is a perfect gem. What I can promise is that every story
+included here is in one way or another different (or at least trying to
+be different) from erotica you've read before. _Arrival_ walks back and
+forth across a gray line of consent. _Kraken_ isn't just a tentacle-sex
+story, it's a _biological_ tentacle-sex story (as opposed to being based
+in fantastical monsters). _Binding Off_ does have a fantastical
+monster, but it might also be that the real monster is being obsessed
+with one's hobby. And _How To Tie A Handcuff Knot_ is about falling in
+love in an environment of purely physical carnal desires. Many of these
+stories incorporate rich description and metaphor --- because if
+there's one place left in our culture for over-the-top literary
+language, it's gotta be erotica, don't you think?
+
+Some of the stories might be offensive to some people. I think the
+nature of experimenting is that sometimes this happens. _Spit Blood
+and Suck_ will make some people uncomfortable. But I encourage you to
+be an experimental reader... so that I can be a more experimental
+writer. Together, we might be able to bust erotica out of its rut!
+
+- A. Andiron, Fall 2020

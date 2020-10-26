@@ -1,0 +1,5 @@
+
+
+* [ ] Go through all the chapter files and make sure the emdashes are handled properly.
+* [ ] Make sure the titles and the yaml at the top of each chapter file are behaving properly
+

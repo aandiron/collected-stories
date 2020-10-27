@@ -1,20 +1,21 @@
 introduction.md
-Last modified: Tue Oct 27, 2020  12:37PM
+Last modified: Tue Oct 27, 2020  02:39PM
 
 
 
 I initially began writing erotica for the same reason that I believe
 most people do: as a way to build out, explore, and share some of my own
 fantasies. A couple of the stories included in this collection were my
-early attempts to do this. I soon grew tired of my own fantasies though
-because I _know_ what I like, and filling in a lot of details in fantasy
-did little to change anything in my reality. So I started writing with
-the goal of building out _other people's_ fantasies instead. From
-conversations with friends and lovers, and friends who I wished were
-lovers, I found inspiration to write a few stories that were intended
-to appeal the to fantasies of very specific people. Among these stories
-are: _La Capella_, _Listen to the Music_, _Chinese Finger Trap_, and
-_Take Off, Go Around_, and _Spit Blood and Suck_.
+early attempts to do this. 
+_Chinese Finger Trap_, _Handcuff knot_
+I soon grew tired of my own fantasies though because I _know_ what I like, and
+filling in a lot of details in fantasy did little to change anything in my
+reality. So I started writing with the goal of building out _other people's_
+fantasies instead. From conversations with friends and lovers, and friends who
+I wished were lovers, I found inspiration to write a few stories that were
+intended to appeal the to fantasies of very specific people. Among these
+stories are: _La Capella_, _Listen to the Music_, _It's your birthday!_, and
+_Spit Blood and Suck_.
 
 Both writing for ones own fantasies and for those of others leaves the
 author trying to create something that people think they _want_. And

@@ -1,0 +1,126 @@
+
+Last modified: Tue Oct 27, 2020  02:45PM
+
+
+
+A Permanent Sad Fantasy
+
+I'm going upstate to this weekend, or maybe next, to get my
+motorcycle. It's been in my friend's garage for the last three years.
+
+I've been texting my friend who lives there. I think I
+have convinced her to go for a motorcycle ride with me when I get
+there. I've wanted to fuck this girl from the first moment time my
+eyes laid upon her.
+
+I'm not just saying that, I remember it distinctly, when I lived there.
+I rode my bicycle past the coffee shop and I saw her and wondered to
+myself: who is that hot new girl in there? Later that day I went in, and
+since my friend was working at the coffee shop too, I was introduced
+to her. She was wearing red pants, that made me, almost involuntarily,
+and extremely inappropriately, imagine bending her over and fucking
+her from behind. Her ass just looked so good in those red pants. I
+remember it clearly. She is pale, and her hair is dyed black and cut
+into a cute bob. You might guess from that that she swings towards the
+goth, and you would be right. So much the better. Her teeth are slightly
+snaggle-toothed - in a way that's really cute, and makes you wonder what
+her blowjobs are like.
+
+But the best thing about her, the thing that absolutely destroys
+weak-willed unpopular boys like me, is her overwhelming charisma. She
+is one who has figured out this magic trick of using charisma to hide
+her sadness, and she puts it to use in a way that, were she so inclined,
+she could form an army of boys to do her bidding. Nerdy boys, who
+like role-playing and Tim Burton, sure, but an army I say. Still, the
+charisma comes mostly from being genuinely funny, and having the cutest
+mannerisms you could imagine. She is the type that squeaks a little bit.
+Some would undoubtedly find it annoying, but I was a total and complete
+sucker for it.
+
+We got to be pretty good friends actually. I started calling her
+my fake-girlfriend, because she had a boyfriend at the time. (Who,
+admittedly, was devastatingly cute and a totally sweetheart.) I still
+wanted to fuck her, but I put it aside. And after a few years of that, I
+moved to New York City.
+
+This weekend, I will return to that upstate town, and I will take her
+out on my motorcycle. I will feel her legs pressed against me, and
+her arms wrapped around me, holding on for dear life. We will go at
+twilight, and I will take her to out to the edge of town and up the road
+to where the high waterfall is. There's an overlook up there, when you
+can sit and look down on the waterfall, and imagine that you are in some
+kind of sacred space.
+
+There I will kiss her, slowly and deeply. And I'll pull her into my
+lap, and when I slide my hand between her legs, I will tell her how
+I've wanted her for so many years. And she'll feel my already hard
+cock pressing against her. I'll take her hand and walk her out into
+the woods, and find a big tree to push her up against. As I undo her
+pants, I'll suck her earlobe, and pull it between my teeth. I'll slide
+her pants down and get on my knees, and bury my face in her sweet
+pussy. And there, I will lick her, suck her, and finger her until she
+cums all over my face. I want to make her cum until she moans out loud
+and embarrasses herself.
+
+And with her pussy soaking wet, I'll turn her around, and finally,
+finally, get to slide my cock into her, fuck her from behind, slap
+that awesomely defined ass. I'll hold her hips, and slide my cock in
+and out of her, but I won't be able to last very long. I'll be so
+horny at that point, and she is so hot. I'm sure she squeaks when she
+gets fucked too.
+
+She once asked me about my cock. Literally, she said, "do you have a
+big cock? I love big cocks." And she will find out, and she will cum
+on me. And when I'm about to cum, I'll pull my dick out and spray my
+hot jizz all over her ass, and watch it run down, over, and slide down
+the back of her legs. I'll slide my hand up the back of her legs and
+slip it through my cum and press my fingers back into her pussy. I'll
+finger fuck her for just a second and then give it to her lips, and
+let her lick my cum and her pussy taste off my fingers.
+
+We'll pull our pants up, and I'll take her home to her house. We'll
+take a shower together, and I will run my soapy hands over her perfect
+little tits, down her back, over her ass, and slide my hands up under
+the curve of her ass, and pull her against me. I'll kiss her with the
+hot water running down between us, and just when she's being soft and
+delicate, I will slide a soapy finger up her ass. My cock will be hard
+again, feeling her against me, and she will go to her knees this time,
+and suck me gently, with water pouring down her face, she'll barely be
+able to breath, but my fingers will push through her hair and I'll
+make her suck all of my cock down her throat.
+
+We'll get out of the shower, and she'll be warm and dry, except her
+pussy will be soaking wet from loving sucking my cock so much. I'll
+push her back on her bed, and I will slide into her. And then I will
+fuck her for hours. Slowly, grinding away, my cock pushing in and out
+of her as I look her in her eyes. I will keep it so slow, and so
+steady for so long, occasionally grinding up against her clit, but
+mostly just loving the feeling of her hot cunt wrapped around me.
+She'll feel my dick throb in her, and she'll know I love it. I'll fuck
+her on top, her legs wrapped around me, and I'll turn her over and
+fuck her from behind, still on top, squeezing her neck in my hand
+(she'll love that) as my cock fills her up, her ass pressed against my
+abdomen. And I'll fuck her on her knees, and I'll fuck her over the
+bed. But it's going to be slow, and it's going to go on until
+daylight, and my dick is aching, and her pussy is sore.
+
+I just want to own her for as long as I possibly can.
+
+The sad thing is this is all just a fantasy. It's unlikely to happen.
+She probably has a boyfriend (again) who she wouldn't betray with one
+night of passion, even though she and I will always be friends and
+whoever the guy is now will probably come and go.
+
+But right at this very moment, while there is still the possibility of
+it, that is the hottest thing in the world. I wish I could always just
+have that possibility, just out of reach, that every great once in a
+while comes true. And those true moments are the great ones, the ones
+that I remember for the rest of my life. I have to do my best to make
+sure they are worth it, and that I make the most of them.
+
+Though the more likely scenario is the possibility will pass without a
+whisper, and it will just become a permanent sad fantasy.
+
+
+
+

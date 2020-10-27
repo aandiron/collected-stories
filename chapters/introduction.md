@@ -1,5 +1,5 @@
 introduction.md
-Last modified: Mon Oct 26, 2020  04:20PM
+Last modified: Tue Oct 27, 2020  12:37PM
 
 
 
@@ -14,7 +14,7 @@ conversations with friends and lovers, and friends who I wished were
 lovers, I found inspiration to write a few stories that were intended
 to appeal the to fantasies of very specific people. Among these stories
 are: _La Capella_, _Listen to the Music_, _Chinese Finger Trap_, and
-_Take Off, Go Around_.
+_Take Off, Go Around_, and _Spit Blood and Suck_.
 
 Both writing for ones own fantasies and for those of others leaves the
 author trying to create something that people think they _want_. And

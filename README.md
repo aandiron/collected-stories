@@ -1,5 +1,5 @@
 README.md
-Last modified: Wed Oct 21, 2020  10:07AM
+Last modified: Mon Oct 26, 2020  06:18PM
 
 # A. Andiron --- Collected Stories
 * By A. Andiron
@@ -23,7 +23,7 @@ Last modified: Wed Oct 21, 2020  10:07AM
 	* https://covervault.com/tag/square/
 
 
-## Licence:
+## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 	* CC BY-NC-SA 4.0
 	* See: [LICENSE](./LICENSE)

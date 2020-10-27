@@ -1,0 +1,46 @@
+notes-and-todos.wiki
+Last modified: Tue Oct 27, 2020  03:34PM
+
+
+# Notes and To Dos for an A. Andiron anthology
+
+## Random ideas
+* you could do a cover that is a photo of a tentacle intertwined with some yarn.
+* Ten tales to tickle, terrify, tease, and titillate.
+
+
+## Story list and order:
+1. Kraken
+2. Take Off, Go Around
+3. As if it isn't even difficult to do
+4. la cappella
+5. Handcuff knot
+6. The Ride Home
+7. Tremble the Flowering Wood
+8. It's your birthday!
+9. A permanent sad fantasy
+10. Chinese Finger Trap
+11. spit blood and suck
+12. Yarn Monster
+13. Arrival
+
+### Possible stories for a 2nd edition:
+* With Interest
+* [Unseen Horror]
+* [Strangers]
+
+
+## Things to do:
+* [ ] Go through all the chapter files and make sure the emdashes are handled properly.
+	* Copy the emdash character out of Tremble, that seems to work
+	* the +smart extension added to the Makefile pandoc line should maybe handle --- for the emdash character? I prefer it that way.
+* [ ] Make sure story breaks in Tremble and elsewhere are working in epub
+	* (You probably have to fix this in the published version of Tremble on Amazon as well.)
+	* (seems like the +smart should handle this too)
+* [ ] Make sure the titles and the yaml at the top of each chapter file are behaving properly
+* [ ] Fix makefiles and metadata on all stories published on Amazon
+	* Use most recent copy of Makefile in the shuttlebay/template directory
+
+
+
+

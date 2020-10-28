@@ -1,5 +1,5 @@
 notes-and-todos.wiki
-Last modified: Tue Oct 27, 2020  03:34PM
+Last modified: Tue Oct 27, 2020  06:39PM
 
 
 # Notes and To Dos for an A. Andiron anthology
@@ -31,6 +31,8 @@ Last modified: Tue Oct 27, 2020  03:34PM
 
 
 ## Things to do:
+* [ ] Go through all files and make sure title is entered as a # top level header
+	* This is the only way to automatically get pagebreaks between each chapter.
 * [ ] Go through all the chapter files and make sure the emdashes are handled properly.
 	* Copy the emdash character out of Tremble, that seems to work
 	* the +smart extension added to the Makefile pandoc line should maybe handle --- for the emdash character? I prefer it that way.

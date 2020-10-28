@@ -1,11 +1,12 @@
 # NOTE: this file has been modified by A. Andiron from the original source
 BUILD = build
-BOOKNAME = HandcuffKnot
+BOOKNAME = EroticaToWorryYourLover
 # This BOOKNAME variable is the output file name, not the title
 TITLE = title.txt
 METADATA = metadata.xml
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file
 CHAPTERS = chapters/introduction.md chapters/Tremble_the_Flowering_Wood.md chapters/spit-blood-and-suck.md
+# Chapters should be space separated, but apparently have to be on a single line.
 TOC = --toc --toc-depth=2
 # uncomment above line if you want a TOC; and uncomment pandoc lines below that includes TOC; comment line that doesn't
 COVER_IMAGE = cover/cover-final.jpg

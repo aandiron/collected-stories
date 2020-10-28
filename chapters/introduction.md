@@ -1,7 +1,5 @@
-introduction.md
-Last modified: Tue Oct 27, 2020  02:39PM
 
-
+# Introduction
 
 I initially began writing erotica for the same reason that I believe
 most people do: as a way to build out, explore, and share some of my own

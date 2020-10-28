@@ -1,14 +1,10 @@
----
-title: Tremble the Flowering Wood
-tags: ['Fiction', 'Sexuality', 'Erotica For Women']
-status: draft
----
 
+# Tremble the Flowering Wood
 
 
 "I don't like this."
 
-"Jeezus. Here we go again — you do this every time we have to go out in
+"Jeezus. Here we go again --- you do this every time we have to go out in
 the field. We are power line inspectors; we inspect power lines. That's
 our job — someone has to inspect them, and those someones are us."
 
@@ -147,9 +143,9 @@ the distance over the descending land, a belted sky of gray lay heavily
 on top of the horizon.
 
 He muttered to himself, "...some women find dad-bods hot you know."
-
-*****
-
+  
+### *****
+  
 Away from the truck and from Joshua, it was silent. She stalked her way
 down the slope of a rogue wave on a warm, wet sea of green. But she was
 the only thing moving on this petrified seascape. The wind had died
@@ -353,7 +349,7 @@ the woods approached her. Before she succumbed, she had a thought that
 totally made sense in her half-conscious state: "Oh, the lights in the
 woods were faeries."
 
-*****
+### *****
 
 Joshua sat in the truck cab. Zeppelin was playing quietly on the radio,
 coming in through a bit of static. He continually tapped the cigarette
@@ -404,7 +400,7 @@ remained — and tossed it onto the seat of the truck.
 He gazed out down the hill scanning the path of the ROW for a second,
 and then started walking.
 
-*****
+### *****
 
 Liza came to. The world resolved itself from darkness to light, and from
 light to a tableau of ancient ancestors taking the form of trees who
@@ -621,7 +617,7 @@ off her feet, and brought her close to its body. It turned towards the
 darkest part of the forest, and began to move in that direction with its
 long, smooth strides and taking Liza along with it.
 
-*****
+### *****
 
 Joshua had been hiking for an hour or so down the slope of the
 right-of-way when he passed the poplar Liza had cut down. He stopped for
@@ -638,7 +634,7 @@ He started to move again, more quickly this time. He plowed through the
 weeds, grasses, and sharp branches whose thorny hooks and points caught
 and pulled roughly at his chaps with a worried, rasping sound.
 
-*****
+### *****
 
 They moved through the woods at a fantastic pace. The trees grew denser,
 darker, and blacker. The creature traveled with such long smooth strides
@@ -938,7 +934,7 @@ She laid back on the warm moss and closed her eyes. Exhausted, she
 drifted off to sleep, with those busy pollinators still gently
 stirring the air against her body.
 
-*****
+### *****
 
 Joshua reached the low swampy area as it was starting to turn dark. He
 had not seen any sign of Liza since hours before when he had passed the
@@ -978,7 +974,7 @@ of a vine wrapped around his leg. Another circled his wrist. Big thick
 vines swooped down and wrapped his body, lifting him off his feet, and
 suspending him among the shadows of the trees.
 
-*****
+### *****
 
 A warm breeze woke Liza a couple of hours later. It was now fully dark,
 and a bright three-quarters moon lit the clearing with a cold blue
@@ -1044,7 +1040,7 @@ watched the light of the faeries off in the woods, but eventually her
 exhaustion immersed in the quiet calm of the forest night overcame her,
 and she fell back asleep.
 
-*****
+### *****
 
 Joshua hung suspended in the vines. It grew darker and rained harder.
 He had tried yelling, but he knew his echoing bellows were of little use.
@@ -1097,7 +1093,7 @@ creating a pinch pot or a sushi chef placing a wad of wasabi.
 The faeries flew up and swarmed around the creature's hand and fingers,
 consuming the bits of gore from it that used to be Joshua's head.
 
-*****
+### *****
 
 The birds were going wild. Screeching whistles and harsh caws stood out
 against a continuous cacophony of birdsong that sounded like someone
@@ -1312,7 +1308,7 @@ return energy she converted from sunshine to her tree. Her colors turn,
 bright green, and then gold, then red, then brown. She withers and falls
 from him.
 
-*****
+### *****
 
 Liza did not know how long she remained out there in the dark heart of
 that wood. She quickly lost track of time. Her waking hours were spent
@@ -1371,7 +1367,7 @@ the ROW. A couple of hours later she spied in the distance a dark figure
 also following the ROW, and he called out to her. She sat down in the
 grass in relief and waited for the forest ranger to come help her.
 
-*****
+### *****
 
 The weeks that went by after that were strange for Liza as she
 readjusted to being back among the humans. She kept most of what

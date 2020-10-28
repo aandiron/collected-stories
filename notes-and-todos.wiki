@@ -1,5 +1,5 @@
 notes-and-todos.wiki
-Last modified: Tue Oct 27, 2020  06:39PM
+Last modified: Wed Oct 28, 2020  02:56PM
 
 
 # Notes and To Dos for an A. Andiron anthology
@@ -9,7 +9,8 @@ Last modified: Tue Oct 27, 2020  06:39PM
 * Ten tales to tickle, terrify, tease, and titillate.
 
 
-## Story list and order:
+## Story list and order: 
+* Introduction
 1. Kraken
 2. Take Off, Go Around
 3. As if it isn't even difficult to do
@@ -22,7 +23,8 @@ Last modified: Tue Oct 27, 2020  06:39PM
 10. Chinese Finger Trap
 11. spit blood and suck
 12. Yarn Monster
-13. Arrival
+13. Listen To The Music
+14. Arrival
 
 ### Possible stories for a 2nd edition:
 * With Interest

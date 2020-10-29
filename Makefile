@@ -9,7 +9,7 @@ CHAPTERS = chapters/0.Introduction_collected-stories.md chapters/1.Kraken_collec
 # Chapters should be space separated, but apparently have to be on a single line.
 TOC = --toc --toc-depth=2
 # uncomment above line if you want a TOC; and uncomment pandoc lines below that includes TOC; comment line that doesn't
-COVER_IMAGE = cover/cover-final.jpg
+COVER_IMAGE = cover/AAndiron_Collected-Stories_book-cover.png
 # I think the cover pic works better if you use a .png or a .jpg
 # But upload a .tif to Amazon's cover pic
 LATEX_CLASS = report
@@ -17,8 +17,7 @@ CSS = epub.css
 
 all: book
 
-book: epub html 
-# pdf --- add this back in to line above to compile pdf
+book: epub html pdf 
 
 clean:
 	rm -r $(BUILD)
@@ -41,10 +40,9 @@ $(BUILD)/html/$(BOOKNAME).html: $(CHAPTERS)
 #	above with TOC
 #	pandoc --to=html5 -o $@ $^
 
-# Commenting this out until I can test it on a diferent system
-#$(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
-#	mkdir -p $(BUILD)/pdf
-#	pandoc --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
+$(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
+	mkdir -p $(BUILD)/pdf
+	pandoc --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
 #	above with TOC
 #	pandoc $(TOC) --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
 

@@ -1,5 +1,5 @@
 setting-up-a-standing-book-cover.txt
-Last modified: Mon Oct 12, 2020  09:54PM
+Last modified: Thu Oct 29, 2020  05:10PM
 
 # Instructions for setting up a standing-book cover using template
 
@@ -12,7 +12,7 @@ To make it the right color:
 	- Cut out your image, if necessary: 
 		- (Select layer->transparency->add alpha channel. Then when you cut stuff out (with the fuzzy select tool or whatever) you will have a transparent background.)
 	- Then, Make sure you are in Image->Mode->RGB mode, and use colors->colorize.  Set Hue at 360 and Saturation at 100. Lightness at 0, to get a rich maroon-red color
-		- (Seems like either the scale for these settings changed to a scale of 0-1 in more recent version of gimp, or the scale is set somewhere and I don't know where. In the most recent attempt, I used these settings: Hue: 1.0, Sat: 1.0, lightness: 0) 
+		- (Seems like either the scale for these settings changed to a scale of 0-1 in more recent version of gimp, or the scale is set somewhere and I don't know where. In the most recent attempt, I used these settings: Hue: 1.0, Sat: 1.0, lightness: .4) 
 	- Save it as a png, prob with a transparent background. You might want to crop it to the 926x1630 aspect ratio mentioned in the next step, but you don't have to.
 
 2

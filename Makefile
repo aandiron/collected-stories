@@ -1,6 +1,6 @@
 # NOTE: this file has been modified by A. Andiron from the original source
 BUILD = build
-BOOKNAME = EroticaToWorryYourLover
+BOOKNAME = EroticaToMakeYourLoverWonder
 # This BOOKNAME variable is the output file name, not the title
 TITLE = title.txt
 METADATA = metadata.xml

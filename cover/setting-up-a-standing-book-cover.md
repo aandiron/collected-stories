@@ -1,5 +1,5 @@
 setting-up-a-standing-book-cover.txt
-Last modified: Thu Oct 29, 2020  05:10PM
+Last modified: Mon Nov 02, 2020  06:53PM
 
 # Instructions for setting up a standing-book cover using template
 
@@ -27,7 +27,7 @@ Save it as a .png.
 
 3
 Open a new copy of the standing book template file in gimp.
-{Got the template from this guy: https://covervault.com/tag/square/}
+{Got the template from this guy: https://covervault.com/5-5-x-8-paperback-mockup/}
 Open your cover design png as another tab in gimp. Drag that layer to
 the standing book tab and drop it on the image to add that as a layer.
 Move it below the cover masking layer and above the Book White layer

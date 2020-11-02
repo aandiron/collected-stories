@@ -1,7 +1,8 @@
 README.md
-Last modified: Thu Oct 29, 2020  05:50PM
+Last modified: Mon Nov 02, 2020  06:54PM
 
-# A. Andiron --- Collected Stories
+# Erotica to Make Your Lover Wonder About You
+* Collected Stories of A. Andiron
 * By A. Andiron
 
 
@@ -21,7 +22,7 @@ Last modified: Thu Oct 29, 2020  05:50PM
 * Compiled using pandoc-ebook-template:
 	* https://github.com/evangoer/pandoc-ebook-template
 * Standing book template for cover from covervault:
-	* https://covervault.com/tag/square/
+	* https://covervault.com/5-5-x-8-paperback-mockup/
 
 
 ## License:

@@ -9,7 +9,7 @@ CHAPTERS = chapters/0.Introduction_collected-stories.md chapters/1.Kraken_collec
 # Chapters should be space separated, but apparently have to be on a single line.
 TOC = --toc --toc-depth=1
 # uncomment above line if you want a TOC; and uncomment pandoc lines below that includes TOC; comment line that doesn't
-COVER_IMAGE = cover/AAndiron_Collected-Stories_book-cover.png
+COVER_IMAGE = cover/AAndiron_Collected-Stories_flat-cover.png
 # I think the cover pic works better if you use a .png or a .jpg
 # But upload a .tif to Amazon's cover pic
 LATEX_CLASS = report

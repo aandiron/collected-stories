@@ -1,5 +1,5 @@
 notes-and-todos.wiki
-Last modified: Wed Oct 28, 2020  02:56PM
+Last modified: Tue Nov 03, 2020  12:28PM
 
 
 # Notes and To Dos for an A. Andiron anthology
@@ -33,17 +33,15 @@ Last modified: Wed Oct 28, 2020  02:56PM
 
 
 ## Things to do:
-* [ ] Go through all files and make sure title is entered as a # top level header
+* [X] Go through all files and make sure title is entered as a # top level header
 	* This is the only way to automatically get pagebreaks between each chapter.
-* [ ] Go through all the chapter files and make sure the emdashes are handled properly.
+* [X] Go through all the chapter files and make sure the emdashes are handled properly.
 	* Copy the emdash character out of Tremble, that seems to work
 	* the +smart extension added to the Makefile pandoc line should maybe handle --- for the emdash character? I prefer it that way.
-* [ ] Make sure story breaks in Tremble and elsewhere are working in epub
+* [X] Make sure story breaks in Tremble and elsewhere are working in epub
 	* (You probably have to fix this in the published version of Tremble on Amazon as well.)
 	* (seems like the +smart should handle this too)
-* [ ] Make sure the titles and the yaml at the top of each chapter file are behaving properly
-* [ ] Fix makefiles and metadata on all stories published on Amazon
-	* Use most recent copy of Makefile in the shuttlebay/template directory
+* [X] Make sure the titles and the yaml at the top of each chapter file are behaving properly
 
 
 

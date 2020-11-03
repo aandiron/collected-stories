@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.38834356"
-     inkscape:cx="463"
-     inkscape:cy="815"
+     inkscape:cx="475.85659"
+     inkscape:cy="765.21957"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,15 +67,14 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="white background rectangle"
-     sodipodi:insensitive="true"
      style="display:inline">
     <rect
-       style="fill:#ffffff;stroke:none;stroke-dasharray:1, 2"
-       id="rect189"
-       width="929.84259"
-       height="1642.9047"
-       x="-1.3707931"
-       y="-0.28850514" />
+       style="fill:#fffeff;fill-opacity:1;stroke:none;stroke-width:2.4733;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect857"
+       width="1004.0156"
+       height="1699.161"
+       x="-39.765606"
+       y="-24.689119" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -186,5 +185,31 @@
          id="flowPara1663" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:438.682px;line-height:1.05;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic Bold';text-align:center;text-anchor:middle;fill:#e51010;fill-opacity:1"
          id="flowPara1665">Wonder</flowPara></flowRoot>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="border">
+    <rect
+       style="display:inline;fill:#fffeff;fill-opacity:1;stroke:none;stroke-width:4.15531;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect859-3"
+       width="736.8335"
+       height="1004.4424"
+       x="914.16626"
+       y="614.68237" />
+    <rect
+       style="display:inline;fill:#fffeff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect859"
+       width="521.37903"
+       height="328.84702"
+       x="392.78723"
+       y="-317.79889" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.95818;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect189"
+       width="903.73834"
+       height="1608.0768"
+       x="10.427914"
+       y="11.048128" />
   </g>
 </svg>

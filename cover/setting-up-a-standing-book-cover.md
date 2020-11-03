@@ -1,5 +1,5 @@
 setting-up-a-standing-book-cover.txt
-Last modified: Mon Nov 02, 2020  06:53PM
+Last modified: Tue Nov 03, 2020  05:37PM
 
 # Instructions for setting up a standing-book cover using template
 
@@ -12,7 +12,7 @@ To make it the right color:
 	- Cut out your image, if necessary: 
 		- (Select layer->transparency->add alpha channel. Then when you cut stuff out (with the fuzzy select tool or whatever) you will have a transparent background.)
 	- Then, Make sure you are in Image->Mode->RGB mode, and use colors->colorize.  Set Hue at 360 and Saturation at 100. Lightness at 0, to get a rich maroon-red color
-		- (Seems like either the scale for these settings changed to a scale of 0-1 in more recent version of gimp, or the scale is set somewhere and I don't know where. In the most recent attempt, I used these settings: Hue: 1.0, Sat: 1.0, lightness: .4) 
+		- (Seems like either the scale for these settings changed to a scale of 0-1 in more recent version of gimp, or the scale is set somewhere and I don't know where. In the most recent attempt, I used these settings: Hue: 1.0, Sat: 1.0, lightness: 0 --- on some files you may have to play with the lightness to make it red.) 
 	- Save it as a png, prob with a transparent background. You might want to crop it to the 926x1630 aspect ratio mentioned in the next step, but you don't have to.
 
 2
@@ -26,8 +26,12 @@ requires installing an AUR package with the gentium fonts
 Save it as a .png.
 
 3
+Get one of these templates from this guy: 
+	https://covervault.com/tag/square/
+	https://covervault.com/5-x-8-paperback-book-mockup-with-fewer-pages/	
+	https://covervault.com/5-5-x-8-paperback-mockup/	
+	(Or use copy of gimp-saved version in template dir.)
 Open a new copy of the standing book template file in gimp.
-{Got the template from this guy: https://covervault.com/5-5-x-8-paperback-mockup/}
 Open your cover design png as another tab in gimp. Drag that layer to
 the standing book tab and drop it on the image to add that as a layer.
 Move it below the cover masking layer and above the Book White layer
@@ -76,9 +80,24 @@ a little more photographed.
 8
 Crop the image down so it is just bigger than the cover. (You want it
 to be as big as possible on Amazon.)
+Ideal dimensions for cover files are 2,560 x 1,600 pixels.
+height/width ratio of 1.6:1
+Note this means that 2560x1600 actually is referring to height by width.
+(Idiots, those folks at Amazon.)
+RGB TIFF or JPEG
+50mb max
+Minimum 72dpi
 
 9
 Save it as a Tiff for Amazon.
 (Uncompressed. It will fail if compressed.)
 Save it as a .png for compiling as an ebook with pandoc.
+
+Note: Ideally, Amazon would have the standing book cover, but the
+image in the epub would be the flat cover. However, Amazon
+automatically creates a Kindle file that has the cover you uploaded
+(the standing book cover). There doesn't appear to be a way around
+this.
+
+
 

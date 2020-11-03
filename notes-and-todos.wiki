@@ -1,12 +1,13 @@
 notes-and-todos.wiki
-Last modified: Tue Nov 03, 2020  12:28PM
+Last modified: Tue Nov 03, 2020  05:35PM
 
 
 # Notes and To Dos for an A. Andiron anthology
 
-## Random ideas
-* you could do a cover that is a photo of a tentacle intertwined with some yarn.
-* Ten tales to tickle, terrify, tease, and titillate.
+
+## Cover
+* The source included here will compile an epub with a flat-image cover. 
+	* But Amazon automatically incorporates the tiff version of the cover with the epub, so the cover image in the epub from Amazon will be of the standing book.
 
 
 ## Story list and order: 
